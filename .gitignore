@@ -1,1 +1,6 @@
 *.jpg
+.venv/
+__pycache__/
+*.pyc
+features_treino.csv
+venv/

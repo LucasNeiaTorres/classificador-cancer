@@ -1,1 +1,7 @@
 pandas
+numpy
+opencv-python
+SimpleITK
+pyradiomics
+tensorflow
+ipykernel
